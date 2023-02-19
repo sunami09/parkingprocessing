@@ -1,0 +1,4 @@
+customtkinter
+cvzone
+numpy
+opencv-python
